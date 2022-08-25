@@ -23,6 +23,3 @@ def max_delta():
 
 
 max_delta()
-
-
-
